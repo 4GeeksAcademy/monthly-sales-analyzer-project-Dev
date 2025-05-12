@@ -39,7 +39,6 @@ Example:
 #### Functions to Complete:  
 - **`total_sales_by_product(data, product_key)`:** Calculate the total sales of a given product (e.g., `"product_a"`) over 20 days.
 
-
 - **`average_daily_sales(data, product_key)`:** Calculate the average daily sales of a given product.
 
 
